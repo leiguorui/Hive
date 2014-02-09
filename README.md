@@ -1,4 +1,4 @@
-TechNode
+technode
 ========
 
-Chat Room for GEEK
+Chat app building on node.js, socket.io and angular.js. 
