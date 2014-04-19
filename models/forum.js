@@ -2,6 +2,7 @@ var mongoose = require('mongoose')
 var Schema = mongoose.Schema,
   ObjectId = Schema.ObjectId
 
+// Forum
 var Forum = new Schema({
   name: String,
   description: String,

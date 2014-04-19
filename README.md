@@ -1,4 +1,4 @@
-technode
+Hive
 ========
 
-Chat app building on node.js, socket.io and angular.js. 
+Realtime forum App with chating building on Koa, SockJS and AngularJS.

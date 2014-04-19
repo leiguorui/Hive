@@ -8,7 +8,9 @@ var Member = new Schema({
   credit: int,
   email: String,
   avatarUrl: String,
+  // 签名
   signature: String,
+  hasRight: 0,
   createAt:{type: Date, default: Date.now}
 })
 

@@ -2,6 +2,7 @@ var mongoose = require('mongoose')
 var Schema = mongoose.Schema,
   ObjectId = Schema.ObjectId
 
+// Topic
 var Thread = new Schema({
   subject: String,
   _forumId: ObjectId,
